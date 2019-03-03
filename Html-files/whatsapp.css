@@ -1,0 +1,159 @@
+*{
+	margin: 0;
+	padding: 0;
+}
+body {
+	    font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Oxygen, Ubuntu, Cantarell, "Open Sans", "Helvetica Neue", sans-serif;
+}
+.header{
+	background-color: #4cba9b;
+	height:80px;
+	position: fixed;
+	top: 0;
+	right: 0;
+	left: 0;
+	display: flex;
+	justify-content: space-around;
+}
+.imge{
+	margin-top: -26px;
+}
+.ul{
+	list-style-type: none;
+	display: flex;
+	padding:20px;
+	font-size: 16px;
+}
+ul li:hover{
+	background-color: brown;
+}
+a.a{
+	text-decoration: none;
+	color: white;
+}
+.li{
+	padding: 30px;
+}
+.middle{
+	margin: 150px;
+	display: flex;
+	justify-content: center;
+}
+.middle1{
+	margin-top: 80px;
+}
+h3{
+	font-weight: lighter;
+	font-size: 35px;
+}
+p{
+	color: #747773;
+}
+.para{
+	font-size: 12px;
+	color: #b2bcad;
+}
+li.li{
+	padding:8px;
+	list-style-type: none;
+}
+ a.aa {
+	text-decoration:none;
+	color:#4cba9b;
+}
+.twobox{
+	display: flex;
+	justify-content: center;
+	margin: auto;
+}
+.firstbox{
+	background-color: #c3e0e5;
+	display: flex;
+	flex-direction: column;
+	justify-content: center;
+	align-items: center;
+}
+.h3 h3{
+	margin-top: 40px;
+	font-size: 25px;
+}
+.p p{
+	font-size: 40px;
+}
+.p{
+	font-size: 15px;
+	padding: 30px;
+}
+.secondbox{
+	background-color: #f2f4f7;
+	display: flex;
+	flex-direction: column;
+	align-items: center;
+	padding: 50px;
+}
+.img{
+	margin-bottom: -95px;
+}
+.white{
+	background-color: white;
+	margin: 10px;
+}
+.img2{
+	padding: 10px;
+}
+.p2{
+	font-size: 12px;
+}
+.p3{
+	font-size: 13px;
+}
+.features{
+	margin: auto;
+	text-align: center;
+}
+.b2{
+	border:2px solid #4cba9b;
+	border-radius: 40px;
+	padding: 15px;
+	text-decoration: none;
+	letter-spacing: .071em;
+	color: #4cba9b;
+}
+.footer{
+	background-color: #2f3042;
+	margin-top: 50px;
+}
+.firstfooter{
+	color: white;
+	display: flex;
+	justify-content: space-around;
+	width:900px;
+	margin: auto;
+}
+a.b{
+	text-decoration:none;
+	color: white;
+}
+ul.ul2{
+	list-style-type: none;
+}
+h4{
+	color: #b7b9bc;
+	font-size: 13px;
+	letter-spacing: .071em;
+}
+.secondfooter{
+	background-color: #1e2a3d;
+	margin-top: 30px;
+	display: flex;
+	justify-content: center;
+	padding: 20px;
+}
+.last2{
+	color:#616366; 
+	width:300px;
+}
+.last1{
+	color: white;
+	width:600px;
+}
